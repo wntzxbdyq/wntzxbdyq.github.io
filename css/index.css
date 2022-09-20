@@ -392,7 +392,7 @@ hr:before {
 }
 /* 滚动条结束！！！！！！！！！！！！！！！！！！！！ */
 body {
-    cursor: url(https://cdn.jsdelivr.net/gh/TRHX/CDN-for-itrhx.com@2.1.6/images/mouse.cur), auto;
+    cursor: url(https://cdn.custom-cursor.com/db/7609/32/among-us-galaxy-pointer.png), auto;
 }
 
 .hide-block>.hide-button.open,
@@ -403,7 +403,7 @@ body {
 a,
 button,
 img {
-    cursor: url(https://cdn.jsdelivr.net/gh/TRHX/CDN-for-itrhx.com@2.1.6/images/mouse.cur), auto
+    cursor: url(https://cdn.custom-cursor.com/db/7610/32/among-us-galaxy-cursor.png), auto
 }
 /* 更改字体 */
 @font-face {
