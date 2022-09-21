@@ -1,0 +1,14 @@
+<body onload="javascript:dogo();">
+<script>
+function dogo(){
+    var urls=[
+        "http://example.com/comments/index.html",
+        "http://example.com/2022/09/16/eggugh/",
+        "http://example.com/categories/index.html",
+        "http://example.com/tags/index.html",
+        "http://example.com/manifest.json",
+        ];
+    n = Math.floor(Math.random()*urls.length);
+    location.href= urls[n];
+}
+</script>
