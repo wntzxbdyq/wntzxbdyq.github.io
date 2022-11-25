@@ -243,7 +243,8 @@ template {
 }
 /* 滚动条结束！！！！！！！！！！！！！！！！！！！！ */
 body {
-    cursor: url(https://cdn.custom-cursor.com/db/7710/32/minimal-french-fries-cursor.png), auto;
+    /* 点击前 */
+    cursor: url(https://cdn.custom-cursor.com/db/15052/32/starter-northern-lights-cursor.png), auto;
 }
 
 .hide-block>.hide-button.open,
@@ -254,7 +255,8 @@ body {
 a,
 button,
 img {
-    cursor: url(https://cdn.custom-cursor.com/db/7709/32/minimal-french-fries-pointer.png), auto
+    /* 点击后 */
+    cursor: url(https://cdn.custom-cursor.com/db/15051/32/starter-northern-lights-pointer.png), auto
 }
 /* 更改字体 */
 @font-face {
